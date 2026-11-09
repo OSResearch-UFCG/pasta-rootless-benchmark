@@ -1,0 +1,15 @@
+# Dados brutos e resultados das medicoes
+dados/
+*.json
+*.csv
+*.png
+*.log
+
+# Ambiente Python da analise
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
